@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+require('dotenv').load()
+require('babel/register')
+require('../src/bin/run')

@@ -1,0 +1,33 @@
+{
+  "name": "lambda-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for babel powered AWS Lambda function",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hirelarge/lambda-boilerplate"
+  },
+  "keywords": [
+    "lambda",
+    "es5",
+    "es6",
+    "babeljs"
+  ],
+  "author": "whatupdave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirelarge/lambda-boilerplate/issues"
+  },
+  "homepage": "https://github.com/hirelarge/lambda-boilerplate",
+  "devDependencies": {
+    "babel-eslint": "^4.1.0",
+    "eslint": "^1.2.1"
+  },
+  "dependencies": {
+    "babel": "^5.8.21",
+    "dotenv": "^1.2.0"
+  }
+}
